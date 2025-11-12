@@ -3,13 +3,96 @@
     "Curry House": [
       {"name": "Paneer Butter Masala", "price": 220},
       {"name": "Dal Tadka", "price": 180},
-      {"name": "Butter Naan", "price": 40}
+      {"name": "Butter Naan", "price": 40},
+      {"name": "Chicken Curry", "price": 250},
+      {"name": "Mutton Rogan Josh", "price": 320},
+      {"name": "Veg Biryani", "price": 200},
+      {"name": "Jeera Rice", "price": 130},
+      {"name": "Gulab Jamun (2 pcs)", "price": 90}
+    ],
+    "Spice Villa": [
+      {"name": "Paneer Tikka", "price": 210},
+      {"name": "Butter Chicken", "price": 290},
+      {"name": "Tandoori Roti", "price": 35},
+      {"name": "Mix Veg Curry", "price": 190},
+      {"name": "Malai Kofta", "price": 230},
+      {"name": "Garlic Naan", "price": 45}
     ]
   },
+
   "Chinese": {
     "Dragon Palace": [
       {"name": "Veg Fried Rice", "price": 150},
-      {"name": "Manchurian", "price": 160}
+      {"name": "Manchurian", "price": 160},
+      {"name": "Hakka Noodles", "price": 170},
+      {"name": "Chilli Paneer", "price": 190},
+      {"name": "Spring Rolls (4 pcs)", "price": 120},
+      {"name": "Hot & Sour Soup", "price": 130}
+    ],
+    "Beijing Express": [
+      {"name": "Chicken Fried Rice", "price": 180},
+      {"name": "Schezwan Noodles", "price": 190},
+      {"name": "Chilli Chicken", "price": 210},
+      {"name": "Momos (8 pcs)", "price": 130},
+      {"name": "Garlic Rice", "price": 160},
+      {"name": "Crispy Baby Corn", "price": 170}
+    ]
+  },
+
+  "Italian": {
+    "Pizza Hub": [
+      {"name": "Margherita Pizza", "price": 260},
+      {"name": "Veg Supreme Pizza", "price": 320},
+      {"name": "Garlic Breadsticks", "price": 150},
+      {"name": "Pasta Alfredo", "price": 290},
+      {"name": "Pasta Arrabiata", "price": 270},
+      {"name": "Tiramisu", "price": 220}
+    ],
+    "Pasta Point": [
+      {"name": "Spaghetti Bolognese", "price": 310},
+      {"name": "Fettuccine Alfredo", "price": 280},
+      {"name": "Cheese Garlic Bread", "price": 140},
+      {"name": "Lasagna", "price": 340},
+      {"name": "Veg Penne Pasta", "price": 260},
+      {"name": "Chocolate Mousse", "price": 180}
+    ]
+  },
+
+  "Fast Food": {
+    "Burger King": [
+      {"name": "Veg Whopper", "price": 160},
+      {"name": "Chicken Whopper", "price": 210},
+      {"name": "French Fries", "price": 90},
+      {"name": "Coke (500ml)", "price": 60},
+      {"name": "Cheese Burger", "price": 140},
+      {"name": "Crispy Veg Wrap", "price": 120}
+    ],
+    "Snack Stop": [
+      {"name": "Grilled Sandwich", "price": 130},
+      {"name": "Club Sandwich", "price": 160},
+      {"name": "Veg Puff", "price": 60},
+      {"name": "Cold Coffee", "price": 110},
+      {"name": "Chocolate Donut", "price": 90},
+      {"name": "Ice Cream Cup", "price": 70}
+    ]
+  },
+
+  "Desserts": {
+    "Sweet Tooth": [
+      {"name": "Chocolate Lava Cake", "price": 180},
+      {"name": "Brownie with Ice Cream", "price": 210},
+      {"name": "Strawberry Sundae", "price": 150},
+      {"name": "Gulab Jamun (2 pcs)", "price": 90},
+      {"name": "Rasmalai", "price": 130},
+      {"name": "Cheesecake Slice", "price": 200}
+    ],
+    "Creamy Corner": [
+      {"name": "Butterscotch Ice Cream", "price": 100},
+      {"name": "Chocolate Milkshake", "price": 120},
+      {"name": "Vanilla Sundae", "price": 110},
+      {"name": "Fruit Salad with Ice Cream", "price": 150},
+      {"name": "Falooda", "price": 160},
+      {"name": "Kulfi Stick", "price": 80}
     ]
   }
 }
