@@ -1,0 +1,65 @@
+[
+    {
+        "timestamp": "2025-11-11T15:55:04.971522",
+        "thought": "User said: food",
+        "action": null,
+        "result": null
+    },
+    {
+        "timestamp": "2025-11-11T15:55:04.971531",
+        "thought": "Analyzing input: food",
+        "action": null,
+        "result": null
+    },
+    {
+        "timestamp": "2025-11-11T15:55:05.025433",
+        "thought": "Detected intent=order_food, sentiment=POSITIVE",
+        "action": "nlu_analysis",
+        "result": {
+            "intent": "order_food",
+            "confidence": 0.9996973276138306
+        }
+    },
+    {
+        "timestamp": "2025-11-11T15:55:11.277406",
+        "thought": "User said: North Indian",
+        "action": null,
+        "result": null
+    },
+    {
+        "timestamp": "2025-11-11T15:55:11.277415",
+        "thought": "Analyzing input: North Indian",
+        "action": null,
+        "result": null
+    },
+    {
+        "timestamp": "2025-11-11T15:55:11.309092",
+        "thought": "Detected intent=unknown, sentiment=POSITIVE",
+        "action": "nlu_analysis",
+        "result": {
+            "intent": "unknown",
+            "confidence": 0.9963477253913879
+        }
+    },
+    {
+        "timestamp": "2025-11-11T15:55:21.059950",
+        "thought": "User said: north indian",
+        "action": null,
+        "result": null
+    },
+    {
+        "timestamp": "2025-11-11T15:55:21.059959",
+        "thought": "Analyzing input: north indian",
+        "action": null,
+        "result": null
+    },
+    {
+        "timestamp": "2025-11-11T15:55:21.092174",
+        "thought": "Detected intent=unknown, sentiment=POSITIVE",
+        "action": "nlu_analysis",
+        "result": {
+            "intent": "unknown",
+            "confidence": 0.9963477253913879
+        }
+    }
+]
